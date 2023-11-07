@@ -38,6 +38,7 @@ public class SimpleCalculator {
             case '/':
             if (n1!=0) 
             {
+                
                 result = n1/n2;
                 System.out.println("Result: "+result);
             } else 
